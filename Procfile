@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --autoreload=True app.ipynb
+web: voila --port=$PORT --no-browser 'Who Would Win.ipynb'
